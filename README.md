@@ -26,15 +26,3 @@ These are used to calculate a score for the password used to know what message t
 3- Displaying Useful Information:
 
 This is a minor feature that displays on the console so information for the user about password security (Avoid using the same password twice/ Avoid character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.)
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
